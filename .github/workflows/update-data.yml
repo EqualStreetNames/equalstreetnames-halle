@@ -1,9 +1,8 @@
 name: Update data
 
 on:
-  # Run every month on the 1st at 1:00 UTC
   schedule:
-    - cron: 
+    - cron:  "0 8 1 * *"
   workflow_dispatch:
   push:
     paths:
@@ -23,4 +22,4 @@ jobs:
     uses: EqualStreetNames/equalstreetnames/.github/workflows/reusable-update-date.yml@master
     secrets: inherit
     with:
-      city:
+      city: belgium/halle
