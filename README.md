@@ -1,4 +1,4 @@
-# EqualStreetNames City Template
+# EqualStreetNames Halle
 
 If you want to replicate the EqualStreetNames project in your city, here is the how-to !
 
