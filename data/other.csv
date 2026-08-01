@@ -5,6 +5,7 @@ name,source,gender,wikidata,type
 Aardslokkerserf,,,,way
 Abeelenveld,,,,way
 Acacialaan,,,,way
+"Acht Bunders",,,,way
 "Albert Bosmansstraat",,,,way
 "Albert Jambonstraat",,,,way
 Albertstraat,,,,way
@@ -12,6 +13,7 @@ Albertstraat,,,,way
 Alsembergsesteenweg,,,,way
 "Alsembergsesteenweg / Steenweg naar Alsemberg",,,,way
 Alsputweg,,,,way
+Alsputwegel,,,,way
 Arenbergstraat,,,,way
 Arkenvest,,,,way
 "Arthur Puesstraat",,,,way
@@ -23,6 +25,7 @@ Beerselsestraat,,,,way
 Beertsestraat,,,,way
 Beestenmarkt,,,,way
 Begonialaan,,,,way
+Bekkersmeers,,,,way
 Bellingenstraat,,,,way
 Beneluxlaan,,,,way
 Berendries,,,,way
@@ -35,6 +38,7 @@ Bevrijdingsplein,,,,way
 Biezeput,,,,way
 Biezeweide,,,,way
 Bilkensveld,,,,way
+Binnenbocht,,,,way
 Blekerijstraat,,,,way
 Bleukenstraat,,,,way
 Bondgenotenstraat,,,,way
@@ -44,6 +48,7 @@ Borreweidestraat,,,,way
 Boslaan,,,,way
 Boterham,,,,way
 Boterhampad,,,,way
+Brabantsebaan,,,,way
 Bremstraat,,,,way
 Bresweg,,,,way
 Broek,,,,way
@@ -53,16 +58,13 @@ Brouwerijgang,,,,way
 Brouwerijstraat,,,,way
 Bruegellaan,,,,way
 Budingen,,,,way
-Burlingen,,,,way
 "Buurtweg Lembeek 32",,,,way
 Cantecleer,,,,way
 Cavaleriestraat,,,,way
 Claesplein,,,,way
-Craeyenweg,,,,way
 Crispielsstraat,,,,way
 Dassenveld,,,,way
 Dassenveldstraat,,,,way
-"De Elst",,,,way
 "De Floere",,,,way
 "Deken Michielsstraat",,,,way
 Delleputsteeg,,,,way
@@ -71,6 +73,7 @@ Delleputstraat,,,,way
 Devlemincklaan,,,,way
 Diepeweg,,,,way
 Dijkstraat,,,,way
+"Dikke Eikweg",,,,way
 Disbeekweg,,,,way
 Distelweg,,,,way
 Dodeweg,,,,way
@@ -98,6 +101,7 @@ Eizingenveld,,,,way
 Elbeekdries,,,,way
 Elbeekstraat,,,,way
 "Emiel Derooverlaan",,,,way
+Engelandbosweg,,,,way
 "Ernest Duezstraat",,,,way
 Esdoornstraat,,,,way
 Europalaan,,,,way
@@ -138,7 +142,6 @@ Haasblok,,,,way
 Hallerbosstraat,,,,way
 Halleweg,,,,way
 "Halleweg / Kamerijkbos",,,,way
-"Halleweg de Brages",,,,way
 Handbooghof,,,,way
 Hazenberg,,,,way
 Heerweg,,,,way
@@ -147,6 +150,7 @@ Heidekenswegel,,,,way
 Heidestraat,,,,way
 Heideveld,,,,way
 Heldenstraat,,,,way
+Helleblok,,,,way
 Hellebroek,,,,way
 "Henri Devedeleerstraat",,,,way
 "Henri Quetstroeyelaan",,,,way
@@ -182,6 +186,7 @@ Hovingenpad,,,,way
 "Jozef Michelstraat",,,,way
 Jubellaan,,,,way
 Jubelplein,,,,way
+Kalkveld,,,,way
 Kamerijkbos,,,,way
 Kamerijkdelle,,,,way
 Kanaalbrugstraat,,,,way
@@ -217,6 +222,8 @@ Kleutersbaan,,,,way
 Klinkaert,,,,way
 Kluisbos,,,,way
 Kluisstraat,,,,way
+Kluizestraatje,,,,way
+Koeienborre,,,,way
 Kolveniersstraat,,,,way
 Konijnenerf,,,,way
 Kopheiweg,,,,way
@@ -225,10 +232,12 @@ Kornijkveld,,,,way
 "Korte Vest",,,,way
 Kortestraat,,,,way
 Kouter,,,,way
+Kraaienweg,,,,way
 Krabos,,,,way
-"Krabos / Krabosstraat",,,,way
+"Krabos / Krabbosstraat",,,,way
 Krekelenberg,,,,way
 Kriekenveldstraat,,,,way
+Kristoffelpad,,,,way
 Krokumveldstraat,,,,way
 Krokusstraat,,,,way
 Kromstraat,,,,way
@@ -236,15 +245,18 @@ Kroondallaan,,,,way
 Kruiskensheide,,,,way
 Kruiskensveld,,,,way
 Kruisstraat,,,,way
+Kruisveld,,,,way
 Kwelm,,,,way
 Kwikstaartlaan,,,,way
 "L.A. Sluysstraat",,,,way
+Labbeekpad,,,,way
 Labbeekstraat,,,,way
 "Lamme Guiche-erf",,,,way
 Lammekenshoekweg,,,,way
 Lampstraat,,,,way
 Lecocqstraat,,,,way
 Leeuwerikenlaan,,,,way
+Leeuwseweg,,,,way
 Leide,,,,way
 Lembeekbos,,,,way
 Lenniksesteenweg,,,,way
@@ -266,7 +278,9 @@ Louizalaan,,,,way
 Luxemburgstraat,,,,way
 Maandagmarkt,,,,way
 Maasdal,,,,way
+Maasdalbos,,,,way
 Maasdalweg,,,,way
+Maasheide,,,,way
 Malaviséstraat,,,,way
 Malheidebrug,,,,way
 Malheideweg,,,,way
@@ -281,6 +295,7 @@ Melkstraat,,,,way
 Merellaan,,,,way
 Mezenlaan,,,,way
 Middenlaan,,,,way
+"Mieke Manneke",,,,way
 Mierenberg,,,,way
 Mimosastraat,,,,way
 Minderbroedersstraat,,,,way
@@ -289,6 +304,7 @@ Molenerf,,,,way
 Molenstraat,,,,way
 Mussenberg,,,,way
 "Naar 't Nachtegaaltje",,,,way
+"Naar Nikkenberg",,,,way
 Nachtegaalstraat,,,,way
 Narcissenlaan,,,,way
 Nederhem,,,,way
@@ -299,11 +315,12 @@ Noorderstraat,,,,way
 "Octave de Kerchove d'Exaerdestraat",,,,way
 Olmenstraat,,,,way
 Onderwijsstraat,,,,way
-"Onze Vrouweweg",,,,way
+Onze-Lieve-Vrouwweg,,,,way
 "Oud Eizingen",,,,way
 "Oude Baan",,,,way
-"Oude Geraardbergsesteenweg",,,,way
 "Oude Groenweg",,,,way
+"Oude Lampstraat",,,,way
+"Oude Ninoofsesteenweg",,,,way
 Paassoldatenstraat,,,,way
 Pachtersweg,,,,way
 Padvindersdal,,,,way
@@ -320,6 +337,8 @@ Pelikaanberg,,,,way
 Permekestraat,,,,way
 Perregatstraat,,,,way
 "Peter Benoitstraat",,,,way
+Piepaensveldweg,,,,way
+Piepaenswegel,,,,way
 "Pierre Joseph Denayerstraat",,,,way
 "Pieter-Pauwel Rubenslaan",,,,way
 Pijpaenshoek,,,,way
@@ -328,12 +347,14 @@ Pioenenlaan,,,,way
 Platanendreef,,,,way
 Platteborrweg,,,,way
 Plattesteen,,,,way
+Ponponiehoek,,,,way
 Populierenstraat,,,,way
 Porseleinstraat,,,,way
 Poststraat,,,,way
 Potaardelaan,,,,way
 Pouillartgang,,,,way
 Prinsenbos,,,,way
+Rattenput,,,,way
 Ratteput,,,,way
 "Raymond Vogeleerstraat",,,,way
 Reinaertweg,,,,way
@@ -356,6 +377,7 @@ Rozenlaan,,,,way
 "Rue Saint-Véron",,,,way
 Ruekevelderf,,,,way
 Ruekeveldweg,,,,way
+"Rust op den Berg",,,,way
 "Rustzone Halle",,,,way
 Sanatorialaan,,,,way
 Scheyssingen,,,,way
@@ -364,6 +386,7 @@ Schumanlaan,,,,way
 Simmebeekweg,,,,way
 Sinneblok,,,,way
 Sint-Annastraat,,,,way
+Sint-Annastraatje,,,,way
 Sint-Jozeflaan,,,,way
 Sint-Pieters-Leeuwsesteenweg,,,,way
 Sint-Pietersbos,,,,way
@@ -394,7 +417,9 @@ Termeeren,,,,way
 "Theodore Van Ruycheveltstraat",,,,way
 "Thérèse Merckx-erf",,,,way
 "Toussaint Van Boelaerelaan",,,,way
+Trambedding,,,,way
 Trompstraat,,,,way
+Tuimelaar,,,,way
 Tuinwijk,,,,way
 Tulpenlaan,,,,way
 Twaalfbundel,,,,way
@@ -426,38 +451,29 @@ Vissersweg,,,,way
 Vlasmarktdreef,,,,way
 Vlieringendreef,,,,way
 Voetvolkstraat,,,,way
-"Voetweg A100",,,,way
-"Voetweg A109",,,,way
-"Voetweg A112",,,,way
+"Voetweg 27 - Sint-Pietersbos",,,,way
+"Voetweg 28",,,,way
 "Voetweg A28",,,,way
 "Voetweg A31",,,,way
 "Voetweg A33",,,,way
 "Voetweg A36",,,,way
 "Voetweg A37",,,,way
 "Voetweg A38",,,,way
-"Voetweg A48",,,,way
-"Voetweg A50",,,,way
 "Voetweg A52",,,,way
-"Voetweg A54",,,,way
 "Voetweg A55",,,,way
 "Voetweg A56",,,,way
-"Voetweg A76",,,,way
 "Voetweg A77",,,,way
-"Voetweg A78;Houtveld",,,,way
-"Voetweg A79",,,,way
-"Voetweg A80",,,,way
-"Voetweg A82 Plattesteen",,,,way
-"Voetweg A83 - Hazenberg",,,,way
-"Voetweg A88",,,,way
 "Voetweg F20",,,,way
 "Voetweg F38",,,,way
 Vogeleerweg,,,,way
 Vogelkensgat,,,,way
+Volderspad,,,,way
 Voldersstraat,,,,way
 Volpestraat,,,,way
 Vondel,,,,way
 Vredelaan,,,,way
 Vroenenbos,,,,way
+Vroenenbospad,,,,way
 Vroenenbosstraat,,,,way
 Wagenweg,,,,way
 Warande,,,,way
@@ -466,10 +482,11 @@ Warandepad,,,,way
 Watertorenstraat,,,,way
 Wedemstraat,,,,way
 Weerstandsstraat,,,,way
-"Weg om",,,,way
 "Weg van Colipain",,,,way
+Weg-Om,,,,way
 Welkomstlaan,,,,way
 Werenberg,,,,way
+Weyenberg,,,,way
 Wielewaallaan,,,,way
 Wijkplein,,,,way
 Wijngaard,,,,way
@@ -480,6 +497,7 @@ Winkelaar,,,,way
 Witpaardgang,,,,way
 Wittendreef,,,,way
 Witteweg,,,,way
+Wolvendriesweg,,,,way
 Zandbergweg,,,,way
 Zavelstraat,,,,way
 Zennemeander,,,,way
